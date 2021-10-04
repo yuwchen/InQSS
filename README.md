@@ -6,4 +6,4 @@
 
 ## Acknowledgments
 * [Bio-ASP Lab](https://bio-asplab.citi.sinica.edu.tw), CITI, Academia Sinica, Taipei, Taiwan
-* [MOSNet] (https://github.com/lochenchou/MOSNet)
+* [MOSNet](https://github.com/lochenchou/MOSNet)
