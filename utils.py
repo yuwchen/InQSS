@@ -19,7 +19,7 @@ WIN_LENGTH=512
 
 # dir
 DATA_DIR = './data'
-AUDIO_DIR = join(DATA_DIR, './train')
+AUDIO_DIR = join(DATA_DIR, 'train')
 BIN_DIR = join(DATA_DIR, 'bin')
 SCAT_DIR = join(DATA_DIR, 'train_scatter')
 
@@ -201,7 +201,7 @@ def extract_features():
         # spectrogram
         mag = get_spectrograms(audio_file)
 
-        with h5py.File(join(output_dir, '{}.h5'.format(f)), 'w') as hf:
+        with h5py.File(join(output_dir, '{}.h5'.format(files[i])), 'w') as hf:
             hf.create_dataset('mag_sgram', data=mag)
 
     print('start scattering transform, {} files found...'.format(len(files)))
