@@ -57,7 +57,7 @@ python train.py
 python test.py --rootdir /path/to/test/wav --pretrained_model /output_model/inqss.h5
 ```
 * [Download](http://gofile.me/6PGhz/5rTKiG9k8) pretained model. Password:inqssmosnet
-* (Note: the results in the paper is the average scores of four models, so the scores in the paper are different from the results using this pretrained model.)
+* (Note: the results in the paper is the average scores of four models, which are trained with different training and validation splits. Therefore, the scores in the paper are different from the results using this pretrained model.)
 
 ### Acknowledgment
 * "MOSNet: Deep Learning based Objective Assessment for Voice Conversion" [Github](https://github.com/lochenchou/MOSNet) 
@@ -114,7 +114,7 @@ python test.py --datadir /path/to/your/test/wav/dir --ckpt /path/to/your/checkpo
 ```
 
 * [Download](http://gofile.me/6PGhz/dIUZjJPq1) pretained model. Password:inqssssl
-* (Note: the results in the paper is the average scores of four models, so the scores in the paper are different from the results using this pretrained model.)
+* (Note: the results in the paper is the average scores of four models, which are trained with different training and validation splits. Therefore, the scores in the paper are different from the results using this pretrained model.)
 
 ### Acknowledgment
 * "Generalization Ability of MOS Prediction Networks" [Github](https://github.com/nii-yamagishilab/mos-finetune-ssl)
