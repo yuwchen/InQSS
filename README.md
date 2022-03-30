@@ -7,12 +7,12 @@
 ```
 conda env create -f /path/to/environment.yml
 ```
-* manually install dependencies
+* manually install dependencies \\
 ⋅⋅⋅ tensorflow 
 ⋅⋅⋅ scipy 
-⋅⋅⋅*librosa
-⋅⋅⋅*kymatio
-⋅⋅⋅*tqdm
+⋅⋅⋅* librosa
+⋅⋅⋅* kymatio
+⋅⋅⋅* tqdm
 
 ### prepare your data
 
