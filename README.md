@@ -8,8 +8,8 @@
 conda env create -f /path/to/environment.yml
 ```
 * manually install dependencies
-#####tensorflow
-#####scipy
+##### tensorflow
+##### scipy
 ⋅⋅⋅*librosa
 ⋅⋅⋅*kymatio
 ⋅⋅⋅*tqdm
