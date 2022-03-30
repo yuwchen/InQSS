@@ -48,7 +48,7 @@ python test.py --rootdir /path/to/test/wav --pretrained_model /output_model/inqs
 ```
 
 ### Acknowledgments
-* [MOSNet](https://github.com/lochenchou/MOSNet)
+* "MOSNet: Deep Learning based Objective Assessment for Voice Conversion" [MOSNet](https://github.com/lochenchou/MOSNet) 
 
 ***
 
@@ -57,7 +57,7 @@ python test.py --rootdir /path/to/test/wav --pretrained_model /output_model/inqs
 
 
 ### Acknowledgments
-* [SSL](https://github.com/nii-yamagishilab/mos-finetune-ssl)
+* "Generalization Ability of MOS Prediction Networks" [SSL](https://github.com/nii-yamagishilab/mos-finetune-ssl)
 
 
 
