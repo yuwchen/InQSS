@@ -7,12 +7,14 @@
 ```
 conda env create -f /path/to/environment.yml
 ```
-* manually install dependencies \\
-⋅⋅⋅ tensorflow 
-⋅⋅⋅ scipy 
-⋅⋅⋅* librosa
-⋅⋅⋅* kymatio
-⋅⋅⋅* tqdm
+* manually install dependencies 
+```
+tensorflow 
+scipy 
+librosa 
+kymatio 
+tqdm 
+```
 
 ### prepare your data
 
@@ -21,19 +23,19 @@ conda env create -f /path/to/environment.yml
 ```
 python utils.py
 ```
- ⋅⋅⋅*the extracted spectrogram will be saved in data/train/bin
- ⋅⋅⋅*the extracted scattering coefficients will be saved in data/train/train_scatter
+* the extracted spectrogram will be saved in data/train/bin
+* the extracted scattering coefficients will be saved in data/train/train_scatter
   
 3. create data/training_list.txt
- ⋅⋅⋅*the format shoule be as follows:
+* the format shoule be as follows:
 ```
 wavname1.wav,quality_score1,intelligibility_score1
 wavname2.wav,quality_score2,intelligibility_score2
 wavname3.wav,quality_score3,intelligibility_score3
 ```
- ⋅⋅⋅*reference: /data/training_list.txt
- ⋅⋅⋅*rescale the intelligibility scores and quality scores into similar scales \\
-      the scales of intelligibility and quality scores in our experiments are 0.0-5.0 and 1.0-5.0, respectively
+* reference: /data/training_list.txt
+* rescale the intelligibility scores and quality scores into similar scales \\
+  the scales of intelligibility and quality scores in our experiments are 0.0-5.0 and 1.0-5.0, respectively
 
 ### training
 ```
