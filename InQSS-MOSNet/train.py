@@ -7,7 +7,6 @@ import numpy as np
 import utils
 import tensorflow as tf
 import model as nn_model
-from tqdm import tqdm
 from tensorflow import keras
 from tensorflow.python.client import device_lib
 
