@@ -1,0 +1,51 @@
+name: fairseq
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=4.5=1_gnu
+  - ca-certificates=2022.2.1=h06a4308_0
+  - certifi=2021.10.8=py37h06a4308_2
+  - libedit=3.1.20210910=h7f8727e_0
+  - libffi=3.2.1=hf484d3e_1007
+  - libgcc-ng=9.3.0=h5101ec6_17
+  - libgomp=9.3.0=h5101ec6_17
+  - libstdcxx-ng=9.3.0=hd4cf53a_17
+  - ncurses=6.3=h7f8727e_2
+  - openssl=1.0.2u=h7b6447c_0
+  - pip=21.2.2=py37h06a4308_0
+  - python=3.7.0=h6e4f718_3
+  - readline=7.0=h7b6447c_5
+  - setuptools=58.0.4=py37h06a4308_0
+  - sqlite=3.33.0=h62c20be_0
+  - tk=8.6.11=h1ccaba5_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7f8727e_4
+  - pip:
+    - antlr4-python3-runtime==4.8
+    - bitarray==2.4.0
+    - cffi==1.15.0
+    - colorama==0.4.4
+    - cython==0.29.28
+    - dataclasses==0.6
+    - hydra-core==1.0.7
+    - importlib-resources==5.4.0
+    - numpy==1.21.5
+    - omegaconf==2.0.6
+    - portalocker==2.4.0
+    - protobuf==3.19.4
+    - pycparser==2.21
+    - pyyaml==6.0
+    - regex==2022.3.2
+    - sacrebleu==2.0.0
+    - scipy==1.7.3
+    - six==1.16.0
+    - tabulate==0.8.9
+    - tensorboardx==2.5
+    - torch==1.11.0
+    - torchaudio==0.11.0
+    - tqdm==4.63.0
+    - typing-extensions==4.1.1
+    - zipp==3.7.0
+prefix: /home/yuwen/.conda/envs/fairseq
