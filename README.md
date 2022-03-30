@@ -1,4 +1,8 @@
 # InQSS: a speech intelligibility and quality assessment model using a multi-task learning network
+
+## TMHINT-QI dataset
+[download link]
+
 ***
 ## InQSS-MOSNet
 
