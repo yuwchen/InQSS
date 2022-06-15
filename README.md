@@ -1,13 +1,39 @@
 # InQSS: a speech intelligibility and quality assessment model using a multi-task learning network
 
 
-This code is related to the paper:    
+This code is related to the paper accepted by INTERSPEECH 2022:    
 InQSS: a speech intelligibility and quality assessment model using a multi-task learning network. 
 https://arxiv.org/abs/2111.02585
 
 
 ## TMHINT-QI dataset
 [download link] (The dataset will be realsed after the paper is formally published)
+
+Due to the page limit, some details about the dataset are not written in the paper.
+
+### About the headset
+
+
+#### Average score v.s. different heatset
+
+
+
+### The correlation between the subject scores and user features
+
+#### Gender
+
+#### Age
+
+
+### The original TMHINT dataset
+
+The following paper describes how they design the TMHINT corpus
+https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22093NTCN0714003%22.&searchmode=basic#XXX
+
+THe syllable distribution of the TMHINT:
+
+
+
 
 ***
 ## InQSS-MOSNet
