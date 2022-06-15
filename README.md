@@ -11,10 +11,10 @@ https://arxiv.org/abs/2111.02585
 
 Due to the page limit, some details about the dataset are not written in the paper.
 
-### About the headset
+### About the headphones
 
 
-#### Average score v.s. different heatset
+#### Average score v.s. different headphones
 
 
 
