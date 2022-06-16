@@ -46,7 +46,7 @@ python train.py
 ```
 python test.py --datadir /path/to/your/test/wav/dir --ckpt /path/to/your/checkpoint/inqss
 ```
-Use the pretrained models:
+Use the pretrained model:
 * [Download](http://gofile.me/6PGhz/HSNnJMlO7) pretained SSL model, put the model in "./fairseq" dir. Password:inqssssl
 * [Download](http://gofile.me/6PGhz/dIUZjJPq1) pretained model. Password:inqssssl
 * (Note: the results in the paper is the average scores of four models, which are trained with different training and validation splits. Therefore, the scores in the paper are different from the results using this pretrained model.)
