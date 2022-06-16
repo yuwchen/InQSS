@@ -35,7 +35,7 @@ alt="main"  width=40% height=40% />
 alt="main"  width=40% height=40% />   <img src="https://github.com/yuwchen/InQSS/blob/main/plot/headphone_std_intell_snr.png" 
 alt="main"  width=40% height=40% /> 
 
--> the standard deviations of using the provided headphone are not necessarily more minor than using their headphones.
+-> the standard deviations of using the provided headphone are not necessarily less than using their headphones.
 
 
 ### - The correlation between the results and the user features
