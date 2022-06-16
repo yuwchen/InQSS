@@ -21,9 +21,10 @@ Due to the page limit, some details about the dataset are not written in the pap
 
 ### - How much does the headphone affect the score?
 
-In our test, there are **110** subjects used the provided headphone and **116** subjects used their own headphones.  
-The following histograms compare the results between using the provided headphone and using their headphones.  
-(Note: all subjects used the provided headphone used the same headphone. )  
+We designed a website for the listening test, and thus the listeners can do the test in the place they like as long as the environment is quiet.
+In our test, there are **110** listeners used the provided headphone and **116** listeners used their own headphones. All listeners used the provided headphone used the same headphone. 
+
+The following histograms compare the results between using the provided headphone and using their headphones.    
 
 <img src="https://github.com/yuwchen/InQSS/blob/main/plot/headphone_avg_quality_snr.png" 
 alt="main"  width=40% height=40% />   <img src="https://github.com/yuwchen/InQSS/blob/main/plot/headphone_avg_intelligibility_snr.png" 
