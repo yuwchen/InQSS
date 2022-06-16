@@ -23,7 +23,7 @@ Due to the page limit, some details about the dataset are not written in the pap
 
 In our test, there are **110** subjects used the provided headphone and **116** subjects used their own headphones.  
 The following histograms compare the results between using the provided headphone and using their headphones.  
-(Note: the provided headphone is the same headphone. )  
+(Note: all subjects used the provided headphone used the same headphone. )  
 
 <img src="https://github.com/yuwchen/InQSS/blob/main/plot/headphone_avg_quality_snr.png" 
 alt="main"  width=40% height=40% />   <img src="https://github.com/yuwchen/InQSS/blob/main/plot/headphone_avg_intelligibility_snr.png" 
