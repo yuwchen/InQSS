@@ -47,8 +47,6 @@ python test.py --rootdir /path/to/test/wav --pretrained_model /output_model/inqs
 * [Download](http://gofile.me/6PGhz/5rTKiG9k8) pretained model. Password:inqssmosnet
 * (Note: the results in the paper is the average scores of four models, which are trained with different training and validation splits. Therefore, the scores in the paper are different from the results using this pretrained model.)
 
-### Finetuning the pretrained model
-
 
 
 ### Acknowledgment
