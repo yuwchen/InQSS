@@ -8,7 +8,7 @@ https://arxiv.org/abs/2111.02585
 
 ## TMHINT-QI dataset
 
-The dataset is public avaliable now !
+The dataset is publicly available now !  
 
 [Download link](http://gofile.me/6PGhz/4U6GWaOtY) pw:tmhintqi  
 
