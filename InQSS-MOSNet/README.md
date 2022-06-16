@@ -14,7 +14,7 @@ kymatio
 tqdm 
 ```
 
-### prepare your data
+### Prepare your data
 
 1. put the wavefiles in data/train
 2. extract features by runing
@@ -34,20 +34,20 @@ wavname2.wav,quality_score2,intelligibility_score2
 * rescale the intelligibility scores and quality scores into similar scales       
   the scales of intelligibility and quality scores in our experiments are 0.0-5.0 and 1.0-5.0, respectively
 
-### training
+### Training
 ```
 python train.py
 ```
 
 
-### testing
+### Testing
 ```
 python test.py --rootdir /path/to/test/wav --pretrained_model /output_model/inqss.h5
 ```
 * [Download](http://gofile.me/6PGhz/5rTKiG9k8) pretained model. Password:inqssmosnet
 * (Note: the results in the paper is the average scores of four models, which are trained with different training and validation splits. Therefore, the scores in the paper are different from the results using this pretrained model.)
 
-### finetuning the pretrained model
+### Finetuning the pretrained model
 
 
 
