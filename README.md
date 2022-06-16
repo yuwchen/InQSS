@@ -65,7 +65,7 @@ alt="main"  width=40% height=40% />
 The following paper describes how the TMHINT corpus was designed: 
 https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22093NTCN0714003%22.&searchmode=basic#XXX
 
-THe syllable distribution of the TMHINT:
+The syllable coverage and distribution of the TMHINT:
 
 
 
