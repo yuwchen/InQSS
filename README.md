@@ -67,6 +67,14 @@ The following paper describes how the TMHINT corpus was designed:
 https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22093NTCN0714003%22.&searchmode=basic#XXX
 
 
+## Citation
+If you use the dataset in your research, please cite:
+
+@inproceedings{chen2022inqss,
+  title     = {{InQSS}: a speech intelligibility and quality assessment model using a multi-task learning network},
+  author    = {Chen, Yu-Wen and Tsao, Yu},
+  booktitle = {Proc. INTERSPEECH 2022}
+}
 
 
 ## License
