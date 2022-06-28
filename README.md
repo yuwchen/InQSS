@@ -15,6 +15,7 @@ The dataset is publicly available now!
 train: the wave files of the training utterances  
 test: the wave files of the testing utterances  
 raw_data.csv: record the corresponding subject index, wave file name, quality score, and intelligibility score  
+test_scores.csv: objective scores of testing data
 
 ----
 Due to the page limit, some details about the dataset are not written in the paper.
@@ -65,6 +66,15 @@ alt="main"  width=40% height=40% />
 
 The following paper describes how the TMHINT corpus was designed: 
 https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22093NTCN0714003%22.&searchmode=basic#XXX
+
+
+### Correlation between subjective scores and objective scores
+
+We use [pysepm](https://github.com/schmiph2/pysepm) to calculate the objective quality and intelligibilty scores of TMHINT-QI testing set. (The details can be found in test_scores.csv.) 
+The following heatmap shows the correlation between different subjective scores and objective scores.  
+
+<img src="https://github.com/yuwchen/InQSS/blob/main/plot/correlation_scores.png" 
+alt="main"  width=80% height=80% /> 
 
 
 ## Citation
