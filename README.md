@@ -71,7 +71,7 @@ https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22093NTCN0714003
 ### Correlation between subjective scores and objective scores
 
 We use [pysepm](https://github.com/schmiph2/pysepm) to calculate the objective quality and intelligibilty scores of TMHINT-QI testing set. (The details can be found in test_scores.csv.) 
-The following heatmap shows the correlation between different subjective scores and objective scores.  
+The following heatmap shows the correlation between different subjective scores and objective scores, where avg_quality and avg_intell denote the average subjective quality and intelligibility scores, respectively.
 
 <img src="https://github.com/yuwchen/InQSS/blob/main/plot/correlation_scores.png" 
 alt="main"  width=80% height=80% /> 
