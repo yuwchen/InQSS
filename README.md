@@ -86,6 +86,7 @@ If you use the dataset in your research, please cite:
   booktitle = {Proc. INTERSPEECH 2022}  
 }   
 
+Thanks :-)!
 
 ## License
 * The InQSS work is released under MIT License. See LICENSE for more details.
