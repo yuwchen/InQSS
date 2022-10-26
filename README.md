@@ -2,7 +2,7 @@
 
 
 This code is related to the paper accepted by INTERSPEECH 2022:    
-InQSS: a speech intelligibility and quality assessment model using a multi-task learning network. 
+InQSS: a speech intelligibility and quality assessment model using a multi-task learning network    
 https://www.isca-speech.org/archive/pdfs/interspeech_2022/chen22i_interspeech.pdf
 
 ## TMHINT-QI dataset
