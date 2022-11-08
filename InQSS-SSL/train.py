@@ -1,8 +1,3 @@
-# ==============================================================================
-# Copyright (c) 2021, Yamagishi Laboratory, National Institute of Informatics
-# Author: Erica Cooper
-# All rights reserved.
-# ==============================================================================
 
 import os
 import argparse
