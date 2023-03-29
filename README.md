@@ -22,6 +22,8 @@ Known missing data: the following samples in raw_data don't have the quality sco
 'DDAE_snr2_pink_TMHINT_b2_22_01',
 'DDAE_snr5_white_TMHINT_g4_24_07'
 
+-  We have recieved reports about server connection issue. Please contact the first author (yc4093@columbia.edu) if you have problems with downloading. 
+
 ----
 Due to the page limit, some details about the dataset are not written in the paper.
 
