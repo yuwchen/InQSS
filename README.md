@@ -16,11 +16,13 @@ test: the wave files of the testing utterances
 raw_data.csv: record the corresponding subject index, wave file name, quality score, and intelligibility score  
 test_scores.csv: objective scores of testing data
 
-Known missing data: the following samples in raw_data don't have the quality scores, thereby not being used in the training and testing set
-'FCN_snr0_street_TMHINT_b2_22_03',
-'Trans_snr2_pink_TMHINT_g4_24_09',
-'DDAE_snr2_pink_TMHINT_b2_22_01',
-'DDAE_snr5_white_TMHINT_g4_24_07'
+Known missing data: the following samples in raw_data don't have the quality scores, thereby not being used in the training and testing set 
+'FCN_snr0_street_TMHINT_b2_22_03', 
+'Trans_snr2_pink_TMHINT_g4_24_09', 
+'DDAE_snr2_pink_TMHINT_b2_22_01', 
+'DDAE_snr5_white_TMHINT_g4_24_07' 
+
+- We have received reports of server connection issues. If you are experiencing a similar issue, please contact the first author (yc4093@columbia.edu) for alternative downloading options.
 
 ----
 Due to the page limit, some details about the dataset are not written in the paper.
