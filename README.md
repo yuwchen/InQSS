@@ -10,9 +10,11 @@ https://www.isca-speech.org/archive/pdfs/interspeech_2022/chen22i_interspeech.pd
 The dataset is publicly available now!  
 
 NARS:
-[Download link](http://gofile.me/6PGhz/4U6GWaOtY) pw:tmhintqi  
+
 Google Drive (recommended):
 [Download link](https://drive.google.com/file/d/1TMDiz6dnS76hxyeAcCQxeSqqEOH4UDN0/view?usp=sharing)
+
+[Download link](http://gofile.me/6PGhz/4U6GWaOtY) pw:tmhintqi  
 
 train: the wave files of the training utterances  
 test: the wave files of the testing utterances  
