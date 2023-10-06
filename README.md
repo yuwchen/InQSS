@@ -14,6 +14,7 @@ Google Drive (recommended):
 [Download link](https://drive.google.com/file/d/1TMDiz6dnS76hxyeAcCQxeSqqEOH4UDN0/view?usp=sharing)
 
 NARS: [Download link](http://gofile.me/6PGhz/4U6GWaOtY) pw:tmhintqi  
+(This link is for previewing samples in the dataset. We have been informed of issues when attempting to download all the data at once using this link. )
 
 train: the wave files of the training utterances  
 test: the wave files of the testing utterances  
